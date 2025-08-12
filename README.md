@@ -151,10 +151,6 @@ Found a bug or have a feature request? Please create an issue with:
 - Steps to reproduce
 - Sample .blend file (if possible)
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 👤 Author
 
 **Nultron**
